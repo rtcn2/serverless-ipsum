@@ -1,0 +1,18 @@
+module.exports = [
+    'Lambda',
+    'OpenWhisk',
+    'Azure',
+    'auto-scaling',
+    'zero-maintenance',
+    'pay-per-execution',
+    'serverdeath',
+    'function',
+    'event',
+    'GCF',
+    'm0vement',
+    'IoT',
+    'monitoring',
+    'cloud',
+    'NoOps',
+    'handler',
+]
